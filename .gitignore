@@ -1,0 +1,23 @@
+# Node / React
+node_modules/
+build/
+dist/
+.env
+npm-debug.log*
+yarn-error.log*
+
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE / Editors
+.vscode/
+.idea/
+*.iml
+
+# OS-specific
+.DS_Store
+Thumbs.db
